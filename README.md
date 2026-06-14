@@ -37,12 +37,12 @@ python decrypt_pvrccz.py --input ./input --output ./output --convert-png --pvrtc
 
 请搜索 `PVRTexTool` 下载安装后，在安装目录中拷贝CLI版本用于批量处理。
 
-# Some result
-
-https://photo.baidu.com/photo/wap/albumShare/invite/QIPPzOIJZZ?from=webcreate
-
 `decrypt_lua.py`
 
 ```python
 python decrypt_lua.py --input ./input --output ./output
 ```
+
+# Some result
+
+https://photo.baidu.com/photo/wap/albumShare/invite/QIPPzOIJZZ?from=webcreate
